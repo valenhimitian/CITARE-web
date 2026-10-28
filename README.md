@@ -75,14 +75,14 @@ Y abrir http://localhost:8000.
 2. Source: **Deploy from a branch**, rama `main`, carpeta `/ (root)`.
 3. A los pocos minutos queda publicado en `https://<usuario>.github.io/citare-web/`.
 
-## Pendiente de confirmar con el centro
+## Datos opcionales
 
-Los datos marcados en el sitio entre `[corchetes]` faltan confirmar. El checklist completo está en [`docs/relevamiento.md`](docs/relevamiento.md).
+El sitio se publicó con la información verificada. Datos que se pueden sumar más adelante (obras sociales, horarios, talleres, equipo) figuran en [`docs/relevamiento.md`](docs/relevamiento.md).
 
 ## Roadmap
 
 - [x] **Etapa 1 – Presencia:** sitio institucional, SEO local, contacto por WhatsApp.
-- [ ] Completar datos pendientes y fotos con consentimiento.
+- [ ] Sumar fotos en alta resolución con consentimiento.
 - [ ] Dominio propio (`.com.ar`) y ficha de Google Business Profile.
 - [ ] **Etapa 2 – Contenido autogestionable:** migración a Astro y CMS para novedades y búsquedas laborales.
 - [ ] **Etapa 3 – Portal interno:** legajos de concurrentes con vencimientos (CUD, autorizaciones), tablero mensual de facturación por obra social, registro de presentaciones y débitos.
